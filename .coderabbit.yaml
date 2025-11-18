@@ -1,5 +1,6 @@
 # CodeRabbit Configuration
 # This file configures CodeRabbit's behavior for code reviews
+# Install CodeRabbit from: https://github.com/apps/coderabbitai
 
 language: javascript
 reviewers:
